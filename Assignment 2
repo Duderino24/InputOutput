@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Assignment 2</title>
+</head>
+<body>
+	<h1> Input Devices</h1>
+
+		<h1> 1 - Laser Mouse</h1>
+			<h2>Connectivity</h2>
+			<p> To transmit their input, typical cabled mice use a thin electrical cord terminating in a standard connector. </p>
+
+			<h2>Price</h2>
+			<p>Average Price Between $20 - $50</p>
+
+			<h2>Performance</h2>
+			<p>Dots per inch (DPI) is a measurement of how sensitive a mouse is. The higher a mouse's DPI, the farther the cursor on your screen will move when you move the mouse. A mouse with a higher DPI setting detects and reacts to smaller movements. A higher DPI isn't always better</p>
+
+			<h2>Technology</h2>
+			<p>Optical mice rely entirely on one or more light-emitting diodes (LEDs) and an imaging array of photodiodes to detect movement relative to the underlying surface, eschewing the internal moving parts a mechanical mouse uses in addition to its optics. A laser mouse is an optical mouse that uses coherent (laser) light. </p>
+
+			<h2>Popularity</h2>
+			<p>Very Popular, almost every PC have a mouse, except laptops or touchscreen devices.</p>
+
+		<h1> 2 - Keyboard</h1>
+			<h2>Connectivity</h2>
+			<p> Typical keyboards use a thin electrical cord terminating in a standard connector. </p>
+
+			<h2>Price</h2>
+			<p>Average Price Between $50 - $150</p>
+
+			<h2>Performance</h2>
+			<p>Performance almost entirely depends on the user. However one area that keyboard performances vary in is the extent of which they accumulate debris. Modern keyboard are continiously working on minimizing debris build up. </p>
+
+			<h2>Technology</h2>
+			<p>The keys are attached to the keyboard via two plastic pieces that interlock in a "scissor"-like fashion, and snap to the keyboard and the key. It still uses rubber domes, but a special plastic 'scissors' mechanism links the keycap to a plunger that depresses the rubber dome with a much shorter travel than the typical rubber dome keyboard. Typically scissor-switch keyboards also employ 3-layer membranes as the electrical component of the switch. </p>
+
+			<h2>Popularity</h2>
+			<p>Very Popular, almost every PC have keyboards, laptops also have built in keyboards. Tablets and phone devices however use optical keyboard technology which uses light.</p>	
+
+		<h1> 3 - Webcam </h1>
+			<h2>Connectivity</h2>
+			<p> Nowadays webcams are almost always built-in in computers and laptops so they are instantly connected. Seperate webcams however need a cord or can be connected via bluetoooth. </p>
+
+			<h2>Price</h2>
+			<p>Average Price Between $100 - $200</p>
+
+			<h2>Performance</h2>
+			<p>Performance relies on two factors: Resolution (number of pixels in an specific area) and Frame Rate (frames displayed per second). </p>
+
+			<h2>Technology</h2>
+			<p>Webcams typically include a lens, an image sensor, support electronics, and may also include a microphone for sound. Various lenses are available, the most common in consumer-grade webcams being a plastic lens that can be screwed in and out to focus the camera. Fixed-focus lenses, which have no provision for adjustment, are also available. </p>
+
+			<h2>Popularity</h2>
+			<p>Video Calling is now more prevalent with advances in internet speed. Webcams are frequently used in business environemnts where multiple parties maybe absent during the meeting.</p>
+
+		<h1> 4 - Fingerprint Scanner </h1>
+			<h2>Connectivity</h2>
+			<p> Such scanners are almost always connected to a computer via a cord in order for the data to be stored. </p>
+
+			<h2>Price</h2>
+			<p>Average Price Between $250 - $300 </p>
+
+			<h2>Performance</h2>
+			<p>Performace relies on DPI or how many dots per inch can the device scan, especially because they work requires the utmost accuracy. </p>
+
+			<h2>Technology</h2>
+			<p>Optical scanner is a charge coupled device (CCD), the same light sensor system used in digital cameras and camcorders. A CCD is simply an array of light-sensitive diodes called photosites, which generate an electrical signal in response to light photons. Each photosite records a pixel, a tiny dot representing the light that hit that spot. Collectively, the light and dark pixels form an image of the scanned scene (a finger, for example). </p>
+
+			<h2>Popularity</h2>
+			<p>Not very popular in daily life. However, some companies require their employees so use a fingerprint scanner in order to keep track of their attendance. In addition, almost all immigrants that wish to live in Canada must undergo a biometrics session which involves scanning the person's fingerprint and taking a picture from them. </p>
+
+		<h1> 5 - Microphones </h1>
+			<h2>Connectivity</h2>
+			<p> Microhones are connected to a computer via a cord, may be wireless and use other forms of connections such as bluetooth, or they might be built in the device (such as in laptops and tablets). </p>
+
+			<h2>Price</h2>
+			<p>Average Price Between $50 - $500 </p>
+
+			<h2>Performance</h2>
+			<p>Performace relies sound recognition technology and how fast can the the sound waves can be converted into electrical energy. </p>
+
+			<h2>Technology</h2>
+			<p>Sound waves are converted into electric currents that flow out from the microphone to an amplifier or sound recording device. Dynamic microphones are just ordinary microphones that use diaphragms, magnets, and coils. Condenser microphones work a slightly different way by using a diaphragm to move the metal plates of a capacitor (an electric-charge storing device) and generate a current that way.</p>
+
+			<h2>Popularity</h2>
+			<p>Microphones are very popular. They are used on a daily basis while making a phone call and in large events acoustic microphones are used together with speakers for a large audience.</p>
+			<hr>
+</body>
+</html>
